@@ -1,4 +1,4 @@
-import chalk from 'chalk';
+import chalk from "chalk";
 
 const names = ['Kim', 'Soumia', 'Youssef', 'Hugo'];
 const colors = [chalk.red, chalk.green, chalk.blue, chalk.yellow];
